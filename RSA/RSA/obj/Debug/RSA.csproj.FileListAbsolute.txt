@@ -1,0 +1,30 @@
+C:\Users\Дэнди\Desktop\Курсовая\RSA\RSA\bin\Debug\RSA.exe.config
+C:\Users\Дэнди\Desktop\Курсовая\RSA\RSA\bin\Debug\RSA.exe
+C:\Users\Дэнди\Desktop\Курсовая\RSA\RSA\bin\Debug\RSA.pdb
+C:\Users\Дэнди\Desktop\Курсовая\RSA\RSA\obj\Debug\RSA.csprojAssemblyReference.cache
+C:\Users\Дэнди\Desktop\Курсовая\RSA\RSA\obj\Debug\RSA.Form1.resources
+C:\Users\Дэнди\Desktop\Курсовая\RSA\RSA\obj\Debug\RSA.Properties.Resources.resources
+C:\Users\Дэнди\Desktop\Курсовая\RSA\RSA\obj\Debug\RSA.csproj.GenerateResource.cache
+C:\Users\Дэнди\Desktop\Курсовая\RSA\RSA\obj\Debug\RSA.csproj.CoreCompileInputs.cache
+C:\Users\Дэнди\Desktop\Курсовая\RSA\RSA\obj\Debug\RSA.exe
+C:\Users\Дэнди\Desktop\Курсовая\RSA\RSA\obj\Debug\RSA.pdb
+C:\Users\Дэнди\Desktop\Дз\1 курс\2 семестр\Курсовая\RSA\RSA\bin\Debug\RSA.exe.config
+C:\Users\Дэнди\Desktop\Дз\1 курс\2 семестр\Курсовая\RSA\RSA\bin\Debug\RSA.exe
+C:\Users\Дэнди\Desktop\Дз\1 курс\2 семестр\Курсовая\RSA\RSA\bin\Debug\RSA.pdb
+C:\Users\Дэнди\Desktop\Дз\1 курс\2 семестр\Курсовая\RSA\RSA\obj\Debug\RSA.csprojAssemblyReference.cache
+C:\Users\Дэнди\Desktop\Дз\1 курс\2 семестр\Курсовая\RSA\RSA\obj\Debug\RSA.Form1.resources
+C:\Users\Дэнди\Desktop\Дз\1 курс\2 семестр\Курсовая\RSA\RSA\obj\Debug\RSA.Properties.Resources.resources
+C:\Users\Дэнди\Desktop\Дз\1 курс\2 семестр\Курсовая\RSA\RSA\obj\Debug\RSA.csproj.GenerateResource.cache
+C:\Users\Дэнди\Desktop\Дз\1 курс\2 семестр\Курсовая\RSA\RSA\obj\Debug\RSA.csproj.CoreCompileInputs.cache
+C:\Users\Дэнди\Desktop\Дз\1 курс\2 семестр\Курсовая\RSA\RSA\obj\Debug\RSA.exe
+C:\Users\Дэнди\Desktop\Дз\1 курс\2 семестр\Курсовая\RSA\RSA\obj\Debug\RSA.pdb
+C:\Users\denny\Рабочий стол\Univer\1 курс\2 семестр\Курсовая\RSA\RSA\bin\Debug\RSA.exe.config
+C:\Users\denny\Рабочий стол\Univer\1 курс\2 семестр\Курсовая\RSA\RSA\bin\Debug\RSA.exe
+C:\Users\denny\Рабочий стол\Univer\1 курс\2 семестр\Курсовая\RSA\RSA\bin\Debug\RSA.pdb
+C:\Users\denny\Рабочий стол\Univer\1 курс\2 семестр\Курсовая\RSA\RSA\obj\Debug\RSA.csproj.AssemblyReference.cache
+C:\Users\denny\Рабочий стол\Univer\1 курс\2 семестр\Курсовая\RSA\RSA\obj\Debug\RSA.Form1.resources
+C:\Users\denny\Рабочий стол\Univer\1 курс\2 семестр\Курсовая\RSA\RSA\obj\Debug\RSA.Properties.Resources.resources
+C:\Users\denny\Рабочий стол\Univer\1 курс\2 семестр\Курсовая\RSA\RSA\obj\Debug\RSA.csproj.GenerateResource.cache
+C:\Users\denny\Рабочий стол\Univer\1 курс\2 семестр\Курсовая\RSA\RSA\obj\Debug\RSA.csproj.CoreCompileInputs.cache
+C:\Users\denny\Рабочий стол\Univer\1 курс\2 семестр\Курсовая\RSA\RSA\obj\Debug\RSA.exe
+C:\Users\denny\Рабочий стол\Univer\1 курс\2 семестр\Курсовая\RSA\RSA\obj\Debug\RSA.pdb
